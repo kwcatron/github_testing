@@ -1,3 +1,39 @@
+## Release v1.0.0.1
+
+**Date:** 2023.12.08
+
+**Summary:**
+
+Fixes a bug that was found
+
+**New Features:**
+
+* None
+
+**Bug Fixes:**
+
+* That one bug
+
+**Breaking Changes:**
+
+* None
+
+**Upgrade Steps:**
+
+* Download the latest installer, use the "upgrade" option when installing. 
+
+**Known Issues:**
+
+* None
+
+**Contributors:**
+
+* Ken C
+
+**Additional Notes:**
+
+N/A
+
 ## Release v1.0.0.0
 
 **Date:** 2023.11.17
